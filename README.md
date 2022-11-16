@@ -5,7 +5,7 @@ Calculate word counts in a text file!
 ## Installation
 
 ```bash
-$ pip install pycounts_abthuy
+$ pip install pycounts-abthuy
 ```
 
 ## Usage
