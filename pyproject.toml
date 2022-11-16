@@ -33,3 +33,4 @@ addopts = [
 
 [tool.semantic_release]
 version_variable = "pyproject.toml:version"
+version_source="tag"
