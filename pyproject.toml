@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pycounts_abthuy"
-version = "0.1.0"
+version = "0.2.0"
 description = "Calculate word counts in a text file!"
 authors = ["Arthur Thuy"]
 license = "MIT"
@@ -30,3 +30,6 @@ pythonpath = "src"
 addopts = [
     "--import-mode=importlib",
 ]
+
+[tool.semantic_release]
+version_variable = "pyproject.toml:version"
