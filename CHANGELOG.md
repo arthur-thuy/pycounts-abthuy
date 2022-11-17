@@ -2,6 +2,11 @@
 
 <!--next-version-placeholder-->
 
+## v0.5.0 (2022-11-17)
+
+### Feature
+- Try to commit with github actions (trigger bump) (59dbf32)
+
 ## v0.2.0 (16/11/2022)
 
 ### Feature
