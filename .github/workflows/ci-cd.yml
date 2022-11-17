@@ -35,7 +35,7 @@ jobs:
       run: poetry run make html --directory docs/
 
 
-cd:
+  cd:
     # Only run this job if the "ci" job passes
     needs: ci
 
