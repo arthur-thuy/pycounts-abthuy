@@ -2,7 +2,7 @@
 
 <!--next-version-placeholder-->
 
-## v0.2.0 (10/09/2021)
+## v0.2.0 (16/11/2022)
 
 ### Feature
 
